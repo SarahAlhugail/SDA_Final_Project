@@ -17,8 +17,17 @@ This is a classic business issue that happens in all industries and I will explo
 ### Data Vistualtion
 >For data visualization, we are going to use seaborn plots. Histgram , Scatter , boxplot and finaly heatmap plots usually helps us to understand data easily.
 
-[hist]!()
 
+![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/cat.png)
+These plots can answer a lot of questions and clarify the data. The actual customer that moved out is 1,627 customers out of 8,500 existing customers (16% attrition). First, Based on gender, almost equal split between males and females.
+
+Another interesting fact, they have significant customers with income less than 40,000,
+
+And there are four product categories but the majority of customers signed up with Blue.!
+
+And based on eduction level the significant customers with graduate degrees.
+
+lastly, Marital status is also closely split between single and married.
 
 
 
