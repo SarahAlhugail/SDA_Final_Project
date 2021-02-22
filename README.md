@@ -112,7 +112,8 @@ I choose this model and I optimized it using GridSearchCV to achieve a better re
 
 which is a satisfactory result and hope that will help the manager to solve the problem and can provide them better services and Achieve costumer’s satisfaction to turn customers' decisions in the opposite direction.
 
-
+# Short Summary
+In this project, I handle a Supervised machine learning classification problem. and the main goal is to predict those customers who will churn using more than one model to compare results and see which one will give the best result. Random forest gives the higher Accuracy score and Recall score. moreover, I optimized the model using Grid search and it helps to increase both the accuracy and recall score and achieve a satisfactory result with 96% Accuracy score.
 
 
 
