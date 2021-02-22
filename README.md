@@ -91,6 +91,18 @@ Models:
 image
 
 
+---
+# About the result :
+ ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/splot.png)
+
+all the models beat the Majortiy Classifier.
+
+The Decision tree and Logistic Regression give a prety close Accuracy Score 88%
+
+while the KNN gives a littile higher Accuracy score ~ 90%
+
+lastely Randomfrest The Random Forest Classifier scored 95% accuracy which outperformed the previous models, I will choose this model and create a confusion matrix to talk more about the result !
+
 
 
 
