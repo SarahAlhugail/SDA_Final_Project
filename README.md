@@ -108,14 +108,10 @@ I choose this model and I optimized it using GridSearchCV to achieve a better re
 # Here is the final Result :
 
 
- ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/matrix.png)
+ ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/matrix1.png)
 
-Here the most important metric is recall since we want 
-most of if not all the customers who want to churn so that
-the bank manager can propose plans to minimise the churning rate,
-so the recall score is 98% wich is a greate score but still have 42
-customers incorrectly categorised as Attrited customers,
-so tha manager will not provide them a better services.
+which is a satisfactory result and hope that will help the manager to solve the problem and can provide them better services and Achieve costumer’s satisfaction to turn customers' decisions in the opposite direction.
+
 
 
 
