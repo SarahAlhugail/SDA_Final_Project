@@ -102,7 +102,13 @@ The Decision tree and Logistic Regression give a prety close Accuracy Score 88%
 while the KNN gives a littile higher Accuracy score ~ 90%
 
 lastely The Random Forest Classifier scored 95% accuracy which outperformed the all other models.
-I will choose this model and create a confusion matrix and talk more about the result !
+
+I choose this model and I optimized it using GridSearchCV to achieve a better result 
+
+# Here is the final Result :
+
+
+ ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/mtrix.png)
 
 
 
@@ -112,4 +118,4 @@ I will choose this model and create a confusion matrix and talk more about the r
 
 
 
-## Models 
+ 
