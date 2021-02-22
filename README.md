@@ -33,9 +33,11 @@ lastly, Marital status is also closely split between single and married.
 ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/box.png)
 
 
-Moreover we saw in the previous chart there are four product categories and the majority of customers signed up with Blue. here I want to take a detailed look at the category and the credit limit.
+Moreover, we saw in the previous chart there are four product categories and the majority of customers signed up with Blue. here I want to take a detailed look at the category and the credit limit.
 
 There is a lot of outliers in the Blue category, but it makes sense, and that because most of the consumers are using blue cards so it will be differences in credit limit.
+
+
 
 
 
