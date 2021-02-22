@@ -56,28 +56,38 @@ So the most valuable customers are less likely to churn :)
 
 ### Feature Selection
  corr() function to find the correlation among the columns, The dataset will be split 70% for training and remaining 30% will be data without label to determine the accurancy of the model.
- 
- Model Building
-After prepared data, split up, I can now start building models to achieve the goal of the project!
+### Model Building
+
+After prepared data, split up, I can now start building models to  achieve the goal of the project!
 
 I'm going to predict those customers who will churn using more than one model to compare results and see which one will gives the bast result.
 
-1- KNeighborsClassifier
+Models:
 
-1-K-nearest neighbors (KNN) algorithm is a type of supervised ML algorithm which can be used for both classification as well as regression predictive problems. However, it is mainly used for classification predictive problems.
+  [1- KNeighborsClassifier](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_knn_algorithm_finding_nearest_neighbors.htm)
 
-2- Logistic Regression :
+>  (KNN) algorithm is a type of supervised ML algorithm which can be used for both classification as well as regression predictive problems. However, it is mainly used for classification predictive problems.
 
-It’s a classification algorithm, that is used where the response variable is categorical. The idea of Logistic Regression is to find a relationship between features and probability of particular outcome.
 
-3- DecisionTreeClassifier :
 
-A tree can be "learned" by splitting the source set into subsets based on an attribute value test. This process is repeated on each derived subset in a recursive manner called recursive partitioning. The recursion is completed when the subset at a node has all the same value of the target variable, or when splitting no longer adds value to the predictions.
+[2- Logistic Regression :](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
 
-4- RandomForestClassifier
+>It’s a classification algorithm, that is used where the response variable is categorical. The idea of Logistic Regression is to find a relationship between features and probability of particular outcome.
 
-A Random Forest classifier uses a number of decision trees, in order to improve the classification rate, In a classification problem, each tree votes and the most popular class is chosen as the final result. In the case of regression, the average of all the tree outputs is considered as the final result. It is simpler and more powerful compared to the other non-linear classification algorithms.
 
+
+[3- DecisionTreeClassifier :](https://psychology.wikia.org/wiki/Decision_tree_learning)
+> A tree can be "learned" by splitting the source set into subsets based on an attribute value test. This process is repeated on each derived subset in a recursive manner called recursive partitioning. The recursion is completed when the subset at a node has all the same value of the target variable, or when splitting no longer adds value to the predictions.
+
+
+
+[4- RandomForestClassifier](https://www.datacamp.com/community/tutorials/random-forests-classifier-python)
+
+
+>A Random Forest classifier uses a number of decision trees, in order to improve the classification rate,  In a classification problem, each tree votes and the most popular class is chosen as the final result. In the case of regression, the average of all the tree outputs is considered as the final result. It is simpler and more powerful compared to the other non-linear classification algorithms.
+
+
+>>>![image](http://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1526467744/voting_dnjweq.jpg)
 image
 
 
