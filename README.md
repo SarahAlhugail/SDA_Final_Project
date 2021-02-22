@@ -108,7 +108,7 @@ I choose this model and I optimized it using GridSearchCV to achieve a better re
 # Here is the final Result :
 
 
- ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/mtrix.png)
+ ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/matrix.png)
 
 
 
