@@ -15,20 +15,21 @@ Data Science Bootcamp
 
 ---
 ### Data Vistualtion
->For data visualization, we are going to use seaborn plots. Histgram , Scatter , boxplot and finaly heatmap plots usually helps us to understand data easily.
+>For data visualization, I'm going to use seaborn plots. Histgram , Scatter , boxplot and finaly heatmap plots usually helps us to understand data easily.
 
 
 ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/cat.png)
-These plots can answer a lot of questions and clarify the data. The actual customer that moved out is 1,627 customers out of 8,500 existing customers (16% attrition). First, Based on gender, almost equal split between males and females.
+These plots can answer a lot of questions and clarify the data. The actual customer that moved out is 1,627 customers out of 8,500 existing customers (16% attrition).
+
+First, Based on gender, almost equal split between males and females.
 
 Another interesting fact, they have significant customers with income less than 40,000,
 
-And there are four product categories but the majority of customers signed up with Blue!
+And there are four product categories but the majority of customers signed up with Blue.!
 
 And based on eduction level the significant customers with graduate degrees.
 
-Lastly, Marital status is also closely split between single and married.
-
+lastly, Marital status is also closely split between single and married.
 
 
 
@@ -36,11 +37,9 @@ Lastly, Marital status is also closely split between single and married.
 ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/box.png)
 
 
-Moreover, we saw in the previous chart there are four product categories and the majority of customers signed up with Blue. here I want to take a detailed look at the category and the credit limit.
+Moreover, we saw in the previous chart there are four product categories, and the majority of customers signed up with Blue. here I want to take a detailed look at the category and the credit limit.
 
 There is a lot of outliers in the Blue category, but it makes sense, and that because most of the consumers are using blue cards so it will be differences in credit limit.
-
-
 
 
 ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/scatter.png)
@@ -49,7 +48,10 @@ There is a lot of outliers in the Blue category, but it makes sense, and that be
 
 The total transactions number of Existing customers reached over 120 with a total amount over 17K, while the total transactions number of Attrited customers are less than 100 with a total amount of around 10k!
 
-So the most valuable customers are less likely to churn :) 
+The question here is why the consumers make transactions with a high amount of money? :)
+
+It makes logical sense since anyone who is planning on churning will try out another bank's services before closing down the current account!
+
 
 ---
 # Machine Learning
@@ -58,7 +60,7 @@ So the most valuable customers are less likely to churn :)
  corr() function to find the correlation among the columns, The dataset will be split 70% for training and remaining 30% will be data without label to determine the accurancy of the model.
 ### Model Building
 
-After prepared data, split up, I can now start building models to  achieve the goal of the project!
+After prepared data, split up, I can now start building models to achieve the goal of the project!
 
 I'm going to predict those customers who will churn using more than one model to compare results and see which one will gives the bast result.
 
@@ -105,6 +107,7 @@ lastely The Random Forest Classifier scored 95% accuracy which outperformed the 
 
 I choose this model and I optimized it using GridSearchCV to achieve a better result 
 
+---
 # Here is the final Result :
 
 
