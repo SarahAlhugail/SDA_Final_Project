@@ -119,7 +119,9 @@ which is a satisfactory result and hope that will help the manager to solve the 
 In this project, I handle a Supervised machine learning classification problem. and the main goal is to predict those customers who will churn using more than one model to compare results and see which one will give the best result. Random forest gives the higher Accuracy score and Recall score. moreover, I optimized the model using Grid search and it helps to increase both the accuracy and recall score and achieve a satisfactory result with 96% Accuracy score.
 
 
+>Future Work :
 
+>Even though I achieved a good result there is always a way to improve it. like, gathering new data to improve model performance, try different techniques to select the features like Feature selection. Also, try another model like Extreme Gradient Boosting Classifier(XGBoost) it could be showing higher Accuracy.
 
 
 
