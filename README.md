@@ -126,7 +126,9 @@ In this project, I handle a Supervised machine learning classification problem. 
 ---
 
 [Check out the source code]()
+
 [ Pager]()
+
 [Presentation]()
 
  
