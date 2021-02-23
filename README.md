@@ -112,7 +112,7 @@ I choose this model and I optimized it using GridSearchCV to achieve a better re
 # Here is the final Result :
 
 
- ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/matrix1.png)
+ ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/finalresult.png)
 
 which is a satisfactory result and hope that will help the manager to solve the problem and can provide them better services and Achieve costumer’s satisfaction to turn customers' decisions in the opposite direction.
 ---
