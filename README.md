@@ -126,9 +126,9 @@ In this project, I handle a Supervised machine learning classification problem. 
 
 ---
 
-[Check out the source code]()
+[Check out the source code](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Final_Project.ipynb)
 
-[ Pager]()
+[ Pager](https://docs.google.com/document/d/1eML04ddOpzE6nLPmE2YlztzxO28jZ6KxpV_C5ebeRKU/edit?usp=sharing)
 
 [Presentation]()
 
