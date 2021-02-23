@@ -5,8 +5,8 @@ Data Science Bootcamp
 ---
 ## Business Problem 
 
->A bank manager worried about the increasing number of churns in the credit card service. In a business, the cost to get a new customer is usually much higher than what it takes to keep an existing one. For this purpose, the main goal will be predicting the highest number of potential churners to provide them better services and Achieve costumer’s satisfaction to turn customers' decisions in the opposite direction.
-This is a classic business issue that happens in all industries and I will explore the customer behaviours to get more insights as well as applying the predictive modelling.
+>A bank manager worried about the increasing number of churns in the credit card service. In a business, the cost to get a new customer is usually much higher than what it takes to keep an existing one. For this purpose, the main goal will be predicting the highest number of potential churners to provide them better services and Achieve customer satisfaction to turn customers' decisions in the opposite direction. This is a classic business issue that happens in all industries and I will explore the customer behaviors to get more insights as well as applying the predictive modeling.
+
 
 ## Let see what we have in our data set:
 
