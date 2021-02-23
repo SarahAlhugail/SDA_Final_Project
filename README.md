@@ -43,7 +43,7 @@ Moreover, we saw in the previous chart there are four product categories, and th
 There is a lot of outliers in the Blue category, but it makes sense, and that because most of the consumers are using blue cards so it will be differences in credit limit.
 
 
-![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/scatter.png)
+![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/Scatter.png)
 
 
 
