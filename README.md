@@ -28,7 +28,7 @@ Another interesting fact, they have significant customers with income less than 
 
 And there are four product categories but the majority of customers signed up with Blue.!
 
-And based on eduction level the significant customers with graduate degrees.
+And based on education level the significant customers with graduate degrees.
 
 lastly, Marital status is also closely split between single and married.
 
@@ -109,7 +109,7 @@ lastly, The Random Forest Classifier scored 95% accuracy which is outperformed a
 I choose this model and I optimized it using GridSearchCV to achieve a better result 
 
 ---
-# Here is the final Result :
+# Here is the Final Result :
 
 
  ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/finalresult.png)
