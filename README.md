@@ -15,7 +15,7 @@ Data Science Bootcamp
 >This dataset consists of 10,127 customers mentioning their age, salary, marital_status, credit card limit, credit card category and more, There are 23 features consisting of 6 objects and the remaining are either integer or float. It is a clean dataset with no null values encountered.
 
 ---
-### Data Vistualtion
+### Data Visualization
 >For data visualization, I'm going to use seaborn plots. Histgram , Scatter , boxplot and finaly heatmap plots usually helps us to understand data easily.
 
 
