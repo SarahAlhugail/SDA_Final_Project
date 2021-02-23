@@ -1,7 +1,7 @@
 # SDA_Final_Project
 Data Science Bootcamp 
 ---
-# Cridet Catd Costomrs
+# Cridet Catd Costumer
 ---
 ## Business Problem 
 
