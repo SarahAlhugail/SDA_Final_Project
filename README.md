@@ -2,7 +2,7 @@ Data Science Bootcamp
 
 # SDA_Final_Project
 ---
-# Cridet Catd Costumer
+# Cridet Card Costumer
 
 ## Business Problem 
 
@@ -16,7 +16,7 @@ Data Science Bootcamp
 
 ---
 ### Data Visualization
->For data visualization, I'm going to use seaborn plots. Histgram , Scatter , boxplot and finaly heatmap plots usually helps us to understand data easily.
+>For data visualization, I'm going to use seaborn plots. Histogram , Scatter, boxplot, and finally heatmap plots usually helps us to understand data easily.
 
 
 ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/cat.png)
@@ -58,12 +58,12 @@ It makes logical sense since anyone who is planning on churning will try out ano
 # Machine Learning
 
 ### Feature Selection
- corr() function to find the correlation among the columns, The dataset will be split 70% for training and remaining 30% will be data without label to determine the accurancy of the model.
+ corr() function to find the correlation among the columns, The dataset will be split 70% for training, and the remaining 30% will be data without a label to determine the accuracy of the model.
 ### Model Building
 
-After prepared data, split up, I can now start building models to achieve the goal of the project!
+After prepared data and split up, I can now start building models to achieve the goal of the project!
 
-I'm going to predict those customers who will churn using more than one model to compare results and see which one will gives the bast result.
+I'm going to predict those customers who will churn using more than one model to compare results and see which one will give the best result.
 
 Models:
 
@@ -87,7 +87,7 @@ Models:
 [4- RandomForestClassifier](https://www.datacamp.com/community/tutorials/random-forests-classifier-python)
 
 
->A Random Forest classifier uses a number of decision trees, in order to improve the classification rate,  In a classification problem, each tree votes and the most popular class is chosen as the final result. In the case of regression, the average of all the tree outputs is considered as the final result. It is simpler and more powerful compared to the other non-linear classification algorithms.
+>A Random Forest classifier uses a number of decision trees, in order to improve the classification rate,  In a classification problem, each tree votes, and the most popular class is chosen as the final result. In the case of regression, the average of all the tree outputs is considered as the final result. It is simpler and more powerful compared to the other non-linear classification algorithms.
 
 
 >>>![image](http://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1526467744/voting_dnjweq.jpg)
@@ -98,13 +98,13 @@ image
 # About the result :
  ![image](https://github.com/SarahAlhugail/SDA_Final_Project/blob/main/Image/splot.png)
 
-all the models beat the Majortiy Classifier.
+all the models beat the Majority Classifier.
 
-The Decision tree and Logistic Regression give a prety close Accuracy Score 88%
+The Decision tree and Logistic Regression give a pretty close Accuracy Score 88%
 
-while the KNN gives a littile higher Accuracy score ~ 90%
+while the KNN gives a little higher Accuracy score of ~ 90%
 
-lastely The Random Forest Classifier scored 95% accuracy which outperformed the all other models.
+lastly, The Random Forest Classifier scored 95% accuracy which outperformed all other models.
 
 I choose this model and I optimized it using GridSearchCV to achieve a better result 
 
