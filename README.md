@@ -130,6 +130,6 @@ In this project, I handle a Supervised machine learning classification problem. 
 
 [ Pager](https://docs.google.com/document/d/1eML04ddOpzE6nLPmE2YlztzxO28jZ6KxpV_C5ebeRKU/edit?usp=sharing)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1RyUrbJqScbCq2ZOzlu1aDm2IateMoKeBlXfWqmr5sO4/edit?usp=sharing)
 
  
