@@ -2,7 +2,7 @@ Data Science Bootcamp
 
 # SDA_Final_Project
 ---
-# Cridet Card Costumers
+# Cridet Card Customers
 
 ## Business Problem 
 
